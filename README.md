@@ -1,2 +1,3 @@
 # git_note
-Ghi chú về git
+
+- commit & push an empty Git folder or directory:  thêm file .gitkeep tới folder
