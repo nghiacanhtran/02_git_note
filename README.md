@@ -5,4 +5,4 @@
 - switch-branch: `git checkout <existing_branch>`
 - create new branch: `git checkout -b <new_branch>`
 - show current branch : `git branch`
-
+- push code : `git push -uf origin main`
