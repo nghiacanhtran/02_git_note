@@ -8,6 +8,7 @@
 - create new branch: `git checkout -b <new_branch>`
 - show current branch : `git branch`
 - push code : `git push -uf origin main`
+- discard local file: `git restore pathFile`
 
 ## Git Log
 
