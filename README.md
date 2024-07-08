@@ -12,6 +12,7 @@
 - discard local file: `git restore pathFile`
 - compare file với version gần nhất: `git diff file`
 - merge code : `git merge <new_branch>`
+- xem thay đổi của file với phiên bản gần nhất: `git diff <file_path>`
 
 ## Git Log
 
