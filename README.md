@@ -7,9 +7,11 @@
 - switch-branch: `git checkout <existing_branch>`
 - create new branch: `git checkout -b <new_branch>`
 - show current branch : `git branch`
-- push code : `git push -uf origin main`
+- commit: `git commit -m "Message"`
+- push code : `git push -uf origin <name_branch>`
 - discard local file: `git restore pathFile`
 - compare file với version gần nhất: `git diff file`
+- merge code : `git merge <new_branch>`
 
 ## Git Log
 
