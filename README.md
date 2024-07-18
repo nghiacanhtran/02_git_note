@@ -8,6 +8,7 @@
 - create new branch: `git checkout -b <new_branch>`
 - crate new branch từ current branch: `git checkout -b <new_branch> <current_branch>`
 - show current branch : `git branch`
+- show list branch: `git branch -a`
 - commit: `git commit -m "Message"`
 - push code : `git push -uf origin <name_branch>`
 - discard local file: `git restore pathFile`
